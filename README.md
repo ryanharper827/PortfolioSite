@@ -1,2 +1,2 @@
-# ResumeSite
-The source code for my resume site.
+# Portfolio Site
+The source code for my portfolio site.
